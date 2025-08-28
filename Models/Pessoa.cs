@@ -12,7 +12,7 @@ namespace Cursos_c_.Models
 
         public void Apresentar()
         {
-            Console.writeline($"ola, meu nome é {Nome}, e tenho {Idade} anos");
+            Console.WriteLine($"ola, meu nome é {Nome}, e tenho {Idade} anos");
             
         }
     }
